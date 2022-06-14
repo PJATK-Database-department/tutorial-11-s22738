@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Image": "1",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "Birthdate": "2021-05-24",
+    "Studies": "Informatyka"
+  },
+  {
+    "Image": "2",
+    "FirstName": "Anna",
+    "LastName": "Malewska",
+    "Birthdate": "2021-05-05",
+    "Studies": "Informatyka"
+  }
+]
